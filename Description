@@ -1,0 +1,19 @@
+1. User Management (Optional for simple version)
+Register/Login
+Track individual portfolios
+
+2. Stock Listings
+List of available stocks (name, symbol, price)
+Simulated or real-time prices (API or mock data)
+
+3. Trading Operations
+Buy Stock: Enter stock symbol, quantity, buy at current price.
+Sell Stock: Sell previously bought stock from user portfolio.
+Balance checking and transaction validation.
+
+4. Portfolio Tracking
+Show holdings: stock name, quantity, average buy price, current value.
+Profit/loss calculation.
+
+5. Transaction History
+Log of buy/sell operations with timestamps and prices.
